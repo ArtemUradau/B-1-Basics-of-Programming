@@ -12,6 +12,7 @@ namespace B_1_Basics_of_Programming
         {
             const int adultage = 18;
             //ex for git
+            ///
             string name = "Ola";
             var surname = "Rondarava";
 
